@@ -4,8 +4,8 @@
     "logo": "https://telegra.ph/file/5da92b8ff42e7d6559e6f.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository":"https://github.com/Tutux1",
-    "website":   "https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX",
-    "success_url": "https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX",
+    "website":   "https://t.me/phaticusthiccy",
+    "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
