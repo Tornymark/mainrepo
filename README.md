@@ -58,8 +58,9 @@ Click WA logo to Join Support Group 👇
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishnu-memanakizhakathil&repo=Meenakshi&theme=nightowl)](https://github.com/vishnu-memanakizhakathil/Meenakshi)
   </div>
     
-
-
+ 👽Thanks To
+[![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
+[Yusuf Usta](https://t.me/fusufs)
 
 
 ## Developers
