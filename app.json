@@ -1,11 +1,11 @@
 {
-    "name": "WhatsAsenaDuplicated",
-    "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
-    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+   "name": "⦁═𝗧𝘂𝘁𝘂 𝗯𝗼𝘁═⦁",
+    "description": "𝗧𝘂𝘁𝘂 𝗯𝗼𝘁 is a first Made in sri lanka 🇱🇰chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
+    "logo": "https://telegra.ph/file/5da92b8ff42e7d6559e6f.jpg",
+    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "⦁═Queen 👸 Alexa═⦁"],
+    "repository": "",
+    "website":   "https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX",
+    "success_url": "https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
