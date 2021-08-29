@@ -1,14 +1,14 @@
 {
-  "name": "Tutux",
+  "name": "WhatsAsenaDuplicated",
   "version": "1.3.5",
   "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-  "main": "./Tutux/bot.js",
+  "main": "./WhatsAsenaDuplicated/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://Tutux1/mainrepo.git"
+    "url": "git+https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git"
   },
   "keywords": [
     "whatsapp",
@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated/issues"
   },
-  "homepage": "https://github.com/Tutux/mainrepo#readme",
+  "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
     "whatsasena-npm": "^1.3.0"
   }
